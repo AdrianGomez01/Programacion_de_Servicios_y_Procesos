@@ -1,0 +1,4 @@
+este es un fichero
+si se encuentra la palabra fichero
+en una linea. El fichero
+al fichero de salida

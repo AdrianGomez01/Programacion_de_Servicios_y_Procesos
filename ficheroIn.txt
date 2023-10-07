@@ -1,0 +1,6 @@
+este es un fichero
+para probar el comando grep
+si se encuentra la palabra fichero
+en una linea. El fichero
+de entrada la copia
+al fichero de salida
