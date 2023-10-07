@@ -25,7 +25,7 @@ public class T1_Tarea3_2 {
         }
 
         try {
-            ProcessBuilder pb = new ProcessBuilder("ls -lF", rutaDirectorio);
+            ProcessBuilder pb = new ProcessBuilder("ls", "-lF", rutaDirectorio);
             Process process = pb.start();
 
             // Obtenemos el stream de salida del proceso
