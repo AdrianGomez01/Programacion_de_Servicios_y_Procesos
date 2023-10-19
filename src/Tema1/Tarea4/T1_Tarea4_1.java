@@ -11,7 +11,7 @@ public class T1_Tarea4_1 {
 
     public static void main(String[] args) {
         try {
-            ProcessBuilder pb = new ProcessBuilder("powershell");
+            ProcessBuilder pb = new ProcessBuilder("pwsh");
             pb.redirectErrorStream(true);
 
             Process process = pb.start();
